@@ -1,0 +1,3 @@
+Primeiro eu ligo o interruptor (Interruptor 1) e deixo ligado por alguns minutos. 
+Depois eu desligo o Interruptor 1 e ligo o Interruptor 2. Eu deixo o Interruptor 2 ligado.
+Vou até a sala onde estão as lâmpadas: A lâmpada acesa é a controlada pelo Interruptor 2, pois ele está ligado.Eu toco nas outras duas lâmpadas: A lâmpada quente, que está desligada, é a controlada pelo Interruptor 1, já que esteve ligada por algum tempo e esquentou. A lâmpada fria é controlada pelo Interruptor 3, pois nunca foi ligada.
